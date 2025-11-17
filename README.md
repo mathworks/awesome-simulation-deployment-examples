@@ -1,4 +1,4 @@
-# Awesome Simulink Compiler Demos and Examples
+# Awesome Simulation Deployment Examples
 
 This is a list of awesome demos, tutorials, and examples created using Simulink Compiler. The examples are divided into the following application areas
 
