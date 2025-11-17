@@ -26,9 +26,9 @@ This is a list of awesome demos, tutorials, and examples created using Simulink 
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://insidelabs-git.mathworks.com/simulink-compiler-demos/r23a-skdemo-van-der-pol">Van der Pol Oscillator</a></li>
-<li><a href="https://github.com/mathworks-robotics/Tractor-Sprayer-Navigation-in-Vineyard">Sprayer-Equipped Tractor Navigation in Vineyard in Unreal Engine</a></li>
-<li><a href="https://www.mathworks.com/matlabcentral/fileexchange/95998-autonomous-navigation-for-mobile-robots-and-ugv">Developing Navigation Stacks for Mobile Robots and UGV</a></li>
+<li><a href="https://insidelabs-git.mathworks.com/simulink-compiler-demos/r23a-skdemo-van-der-pol">Van der Pol Oscillator App</a></li>
+<li><a href="https://insidelabs-git.mathworks.com/simulink-compiler-demos/r23a-skdemo-mass-spring-damper">Mass-Spring-Damper App</a></li>
+<li><a href="https://insidelabs-git.mathworks.com/simulink-compiler-demos/r23a-skdemo-lonrenz-system">Lorenz Oscillator App</a></li>
 </ul></td>
 </tr>
 </tbody>
