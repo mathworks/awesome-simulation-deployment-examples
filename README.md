@@ -5,6 +5,7 @@ This is a list of awesome demos, tutorials, and examples created using Simulink 
   * [Standalone Executable](#standalone-executable)
   * [Standalone App (Graphical User Interface)](#standalone-app)
   * [Integration with Python](#integration-with-python)
+  * [Getting Data In and Out of Deployed Applications](#getting-data-in-and-out)
   
 
 ## Standalone Executable
@@ -13,9 +14,7 @@ This is a list of awesome demos, tutorials, and examples created using Simulink 
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://github.com/mathworks-robotics/Offroad-Navigation-for-Autonomous-Haul-Trucks">Off-Road Navigation for Autonomous Vehicles</a></li>
-<li><a href="https://github.com/mathworks-robotics/Tractor-Sprayer-Navigation-in-Vineyard">Sprayer-Equipped Tractor Navigation in Vineyard in Unreal Engine</a></li>
-<li><a href="https://www.mathworks.com/matlabcentral/fileexchange/95998-autonomous-navigation-for-mobile-robots-and-ugv">Developing Navigation Stacks for Mobile Robots and UGV</a></li>
+<li><a href="https://insidelabs-git.mathworks.com/simulink-compiler-demos/r22b-skdemo-barcode-recognition">Barcode Recognition</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -29,6 +28,17 @@ This is a list of awesome demos, tutorials, and examples created using Simulink 
 <li><a href="https://insidelabs-git.mathworks.com/simulink-compiler-demos/r23a-skdemo-van-der-pol">Van der Pol Oscillator App</a></li>
 <li><a href="https://insidelabs-git.mathworks.com/simulink-compiler-demos/r23a-skdemo-mass-spring-damper">Mass-Spring-Damper App</a></li>
 <li><a href="https://insidelabs-git.mathworks.com/simulink-compiler-demos/r23a-skdemo-lonrenz-system">Lorenz Oscillator App</a></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+## Getting Data In and Out of Deployed Applications
+<table>
+<tbody>
+<tr class="odd">
+<td><ul>
+<li><a href="https://insidelabs-git.mathworks.com/simulink-compiler-demos/r23a-skdemo-stream-sim-io-via-tcp">Data IO Using TCP</a></li>
 </ul></td>
 </tr>
 </tbody>
