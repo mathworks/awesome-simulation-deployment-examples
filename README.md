@@ -5,6 +5,7 @@ This is a list of awesome demos, tutorials, and examples created using Simulink 
   * [Standalone Executable](#standalone-executable)
   * [Standalone App (Graphical User Interface)](#standalone-app)
   * [Integration with Python](#integration-with-python)
+  
 
 ## Standalone Executable
 
@@ -21,6 +22,17 @@ This is a list of awesome demos, tutorials, and examples created using Simulink 
 </table>
 
 ## Standalone App (Graphical User Interface)
+<table>
+<tbody>
+<tr class="odd">
+<td><ul>
+<li><a href="https://insidelabs-git.mathworks.com/simulink-compiler-demos/r23a-skdemo-van-der-pol">Van der Pol Oscillator</a></li>
+<li><a href="https://github.com/mathworks-robotics/Tractor-Sprayer-Navigation-in-Vineyard">Sprayer-Equipped Tractor Navigation in Vineyard in Unreal Engine</a></li>
+<li><a href="https://www.mathworks.com/matlabcentral/fileexchange/95998-autonomous-navigation-for-mobile-robots-and-ugv">Developing Navigation Stacks for Mobile Robots and UGV</a></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Integration with Python
 This set of examples demostrate how Simulink Compiler can be used to integrate Simulink models with python code. 
@@ -29,6 +41,8 @@ This set of examples demostrate how Simulink Compiler can be used to integrate S
 <tbody>
 <tr class="odd">
 <td><ul>
+<li><a href="https://insidelabs-git.mathworks.com/simulink-compiler-demos/run-deployed-simulink-models-from-python">Run deployed Simulink models from Python</a></li>
+<li><a href="https://insidelabs-git.mathworks.com/simulink-compiler-demos/r23a-skdemo-call-sim-from-python">Calling "sim" from Python</a></li>
 <li><a href="https://insidelabs-git.mathworks.com/simulink-compiler-demos/simulate-model-from-python-using-matlab-engine-api">Run Simulink models from Python Using MATLAB Engine API</a></li>
 </ul></td>
 </tr>
