@@ -1,8 +1,7 @@
-# awesome-simulink-compiler
+# Awesome Simulink Compiler Demos and Examples
 
+This is a list of awesome demos, tutorials, and examples created using Simulink Compiler. 
 
-
-## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
 
