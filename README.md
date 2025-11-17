@@ -4,8 +4,8 @@ This is a list of awesome demos, tutorials, and examples created using Simulink 
 
   * [Standalone Executable](#standalone-executable)
   * [Standalone App (Graphical User Interface)](#standalone-app)
-  * [Integration with Python](#integration-with-python)
   * [Getting Data In and Out of Deployed Applications](#getting-data-in-and-out)
+  * [Integration with Python](#integration-with-python)
   
 
 ## Standalone Executable
