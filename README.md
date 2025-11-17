@@ -2,9 +2,9 @@
 
 This is a list of awesome demos, tutorials, and examples created using Simulink Compiler. The examples are divided into the following application areas
 
-  * [Standalone Executable](#ground-vehicles-and-mobile-robotics)
-  * [Standalone App (Graphical User Interface)](#manipulation)
-  * [Integration with Python](#legged-locomotion)
+  * [Standalone Executable](#standalone-executable)
+  * [Standalone App (Graphical User Interface)](#standalone-app)
+  * [Integration with Python](#integration-with-python)
 
 ## Standalone Executable
 
@@ -24,3 +24,13 @@ This is a list of awesome demos, tutorials, and examples created using Simulink 
 
 ## Integration with Python
 This set of examples demostrate how Simulink Compiler can be used to integrate Simulink models with python code. 
+
+<table>
+<tbody>
+<tr class="odd">
+<td><ul>
+<li><a href="https://insidelabs-git.mathworks.com/simulink-compiler-demos/simulate-model-from-python-using-matlab-engine-api">Run Simulink models from Python Using MATLAB Engine API</a></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
