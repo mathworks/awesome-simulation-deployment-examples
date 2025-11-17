@@ -39,6 +39,7 @@ This is a list of awesome demos, tutorials, and examples created using Simulink 
 <tr class="odd">
 <td><ul>
 <li><a href="https://insidelabs-git.mathworks.com/simulink-compiler-demos/r23a-skdemo-stream-sim-io-via-tcp">Data IO Using TCP</a></li>
+<li><a href="https://insidelabs-git.mathworks.com/simulink-compiler-demos/r23a-skdemo-connect-sim-to-ext-env">Connect sim to External Environment</a></li>
 </ul></td>
 </tr>
 </tbody>
