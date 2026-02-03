@@ -32,8 +32,6 @@ This set of examples demonstrates how Simulink Compiler can be used to integrate
 </table>
 
 ## Integration with Databricks
-This set of examples demonstrates how Simulink Compiler can be used to integrate Simulink models with Databricks. 
-
 <table>
 <tbody>
 <tr class="odd">
