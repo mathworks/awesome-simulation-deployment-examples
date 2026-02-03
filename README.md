@@ -1,6 +1,6 @@
 # Awesome Simulation Deployment Examples
 
-This is a list of awesome demos, tutorials, and examples created using Simulink Compiler. The examples are divided into the following application areas
+This is a list of awesome demos, tutorials, and examples created using Simulink Compiler&trade;. The examples are divided into the following application areas
 
   * [Getting Data In and Out of Deployed Applications](#getting-data-in-and-out)
   * [Integration with Python](#integration-with-python)
