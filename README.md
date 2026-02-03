@@ -4,6 +4,7 @@ This is a list of awesome demos, tutorials, and examples created using Simulink 
 
   * [Getting Data In and Out of Deployed Applications](#getting-data-in-and-out)
   * [Integration with Python](#integration-with-python)
+  * [Integration with Databricks](#integration-with-databricks)
 
 ## Getting Data In and Out of Deployed Applications
 <table>
@@ -29,3 +30,17 @@ This set of examples demonstrates how Simulink Compiler can be used to integrate
 </tr>
 </tbody>
 </table>
+
+## Integration with Databricks
+This set of examples demonstrates how Simulink Compiler can be used to integrate Simulink models with Databricks. 
+
+<table>
+<tbody>
+<tr class="odd">
+<td><ul>
+<li><a href="https://www.databricks.com/blog/scaling-matlab-and-simulink-models-databricks-and-mathworks">Scaling MATLAB and Simulink models with Databricks and Mathworks</a></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
